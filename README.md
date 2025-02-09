@@ -20,6 +20,22 @@ SEAT ALLOCATION:
 DATABASE:
 ![image](https://github.com/user-attachments/assets/80d4aecd-dbc4-48f4-b67d-8647b2de0b8a)
 
+To run the web app type the command and press <kbd>Enter</kbd>
+1. Frontend
+    ```
+    npm i
+    ```
+    ```
+    npm run start
+    ```
+2. Backend
+    ```
+    npm i
+    ```
+    ```
+    npm run dev
+    ```
+
 # Technology Used :
 1. ReactJs
 2. Axios - HTTP Request
