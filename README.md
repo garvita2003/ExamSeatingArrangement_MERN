@@ -3,21 +3,27 @@ The goal is to create a web-based system to manage exam seating arrangements, wh
 allocation process, reduce administrative workload, and provide an efficient and effective solution that scales to accommodate large numbers of students. This project has the potential to improve the student experience and increase the security and accuracy of the exam process.
 
 COMPLETE ARCHITECTURE DESIGN:
+
 ![image](https://github.com/user-attachments/assets/49785e5d-7fd9-4852-9b91-c42e6f33ac95)
 
 LOGIN :
+
 ![image](https://github.com/user-attachments/assets/3b1f24d9-2ad8-4967-8ca4-b45e7ecd8a7b)
 
 MANAGE ROOM:
+
 ![image](https://github.com/user-attachments/assets/152ac5f8-b0f7-4773-a2c8-f801d86b859f)
 
 EXAM DETAILS:
+
 ![image](https://github.com/user-attachments/assets/d188b5e9-68af-401c-ae75-67c9ee7408b9)
 
 SEAT ALLOCATION:
+
 ![image](https://github.com/user-attachments/assets/0d95acef-2edf-43c9-95a2-1a20e9f2f2cb)
 
 DATABASE:
+
 ![image](https://github.com/user-attachments/assets/80d4aecd-dbc4-48f4-b67d-8647b2de0b8a)
 
 To run the web app type the command and press <kbd>Enter</kbd>
@@ -46,6 +52,7 @@ To run the web app type the command and press <kbd>Enter</kbd>
 7. Python - openpyxl
 
 # Overview :
+
 ![Screenshot 2025-02-09 124544](https://github.com/user-attachments/assets/ed123be0-bc8c-4881-bde7-92e4cb5036a2)
 
 ![Screenshot 2025-02-09 124553](https://github.com/user-attachments/assets/9f629a52-5cb3-4e28-867e-db94d1d81741)
