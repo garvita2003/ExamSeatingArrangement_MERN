@@ -1,8 +1,6 @@
 # Exam Seating Arrangement - MERN
 The goal is to create a web-based system to manage exam seating arrangements, which will digitize the exam seat allocation on campus. The proposed exam hall seat allocation system aims to automate the seat
-allocation process, reduce administrative workload, and provide an efficient and
-effective solution that scales to accommodate large numbers of students. This project has the potential to improve the student experience and increase
-the security and accuracy of the exam process.
+allocation process, reduce administrative workload, and provide an efficient and effective solution that scales to accommodate large numbers of students. This project has the potential to improve the student experience and increase the security and accuracy of the exam process.
 
 COMPLETE ARCHITECTURE DESIGN:
 ![image](https://github.com/user-attachments/assets/49785e5d-7fd9-4852-9b91-c42e6f33ac95)
@@ -21,8 +19,6 @@ SEAT ALLOCATION:
 
 DATABASE:
 ![image](https://github.com/user-attachments/assets/80d4aecd-dbc4-48f4-b67d-8647b2de0b8a)
-
-
 
 # Technology Used :
 1. ReactJs
